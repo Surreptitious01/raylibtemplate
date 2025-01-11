@@ -9,7 +9,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED YES)
 add_subdirectory(external/raylib)
 
 # Add your source files
-add_executable(testraylib src/main.cpp)
+add_executable(testraylib src/main.c)
 
 # Link raylib to your project
 target_link_libraries(testraylib raylib)
