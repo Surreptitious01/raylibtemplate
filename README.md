@@ -1,4 +1,4 @@
-# testraylib
+# raylibtemplate
 
 ## Setup Directions
 
