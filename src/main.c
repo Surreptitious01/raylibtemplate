@@ -13,8 +13,6 @@ int main() {
 
       ClearBackground(RAYWHITE);
 
-      DrawText("Window Created", 190, 200, 20, LIGHTGRAY);
-
     EndDrawing();
   }
 
